@@ -1,4 +1,4 @@
-# Mini_Project_1stYr
+# Project Ignorance
 ------------------------------------------------------Welcome to our project!------------------------------------------------------
 
 This is a project designed by a group of first year Ethical Hacking and Cybersecurity students attending Coventry univeristy.
